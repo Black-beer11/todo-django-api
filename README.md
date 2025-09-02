@@ -73,7 +73,7 @@ ToDo/
 
 ### **1. Cloner le Projet**
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/Black-beer11/todo-django-api.git
 cd ToDo
 ```
 
@@ -279,7 +279,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ### **Contact**
 - **Issues** : Utiliser la section Issues GitHub
 - **Discussions** : Section Discussions GitHub
-- **Email** : [votre-email@example.com]
+- **Email** : [blackbeer319@gmail.com]
 
 ## 🎉 Remerciements
 
@@ -292,4 +292,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **Développé avec ❤️ en utilisant Django et les technologies web modernes**
 
-*Dernière mise à jour : Janvier 2024*
+*Dernière mise à jour : Septembre 2025*
