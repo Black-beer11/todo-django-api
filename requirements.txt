@@ -1,0 +1,23 @@
+# Dépendances principales
+Django>=5.0.0,<6.0.0
+djangorestframework>=3.14.0,<4.0.0
+
+# Dépendances de développement (optionnelles)
+# python-decouple>=3.8,<4.0.0  # Pour les variables d'environnement
+# django-cors-headers>=4.0.0,<5.0.0  # Pour CORS si nécessaire
+# django-filter>=23.0,<24.0  # Pour le filtrage avancé
+# markdown>=3.4.0,<4.0.0  # Pour la documentation de l'API
+
+# Base de données (optionnel - pour production)
+# psycopg2-binary>=2.9.0,<3.0.0  # Pour PostgreSQL
+# mysqlclient>=2.1.0,<3.0.0  # Pour MySQL
+
+# Serveur de production (optionnel)
+# gunicorn>=21.0.0,<22.0.0  # Serveur WSGI pour production
+# whitenoise>=6.5.0,<7.0.0  # Pour servir les fichiers statiques
+
+# Tests et qualité de code (optionnel)
+# pytest>=7.0.0,<8.0.0  # Framework de tests
+# pytest-django>=4.5.0,<5.0.0  # Plugin Django pour pytest
+# black>=23.0.0,<24.0.0  # Formateur de code
+# flake8>=6.0.0,<7.0.0  # Linter de code
